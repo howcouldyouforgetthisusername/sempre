@@ -1,0 +1,20 @@
+# Agile grammar/lexicon for Newton demo.
+
+(include general.grammar)
+
+# Types
+(rule $TypeNP (table) (ConstantFn en.table))
+(rule $EntityNP1 (inventory) (ConstantFn en.table.inventory))
+(rule $EntityNP2 (suppliers) (ConstantFn en.recipe.suppliers))
+
+(rule $TypeNP (user) (ConstantFn en.user))
+(rule $EntityNP1 (alice) (ConstantFn en.user.alice))
+(rule $EntityNP2 (bob) (ConstantFn en.user.bob))
+
+(rule $TypeNP (column type) (ConstantFn en.column_type))
+(rule $EntityNP1 (numeric) (ConstantFn en.column_type.numeric))
+(rule $EntityNP2 (text) (ConstantFn en.column_type.text))
+
+(rule $VP/NP (was created by) (ConstantFn (string user)))
+(rule $VP/NP (has column of type) (ConstantFn (string column_type)))
+(rule $VP/NP (has access to) (ConstantFn (string table)))
