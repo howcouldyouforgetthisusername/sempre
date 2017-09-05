@@ -1,2 +1,0 @@
-numeric or text	(call edu.stanford.nlp.sempre.overnight.SimpleWorld.listValue (call edu.stanford.nlp.sempre.overnight.SimpleWorld.concat en.column_type.numeric en.column_type.text))
-alice or bob	(call edu.stanford.nlp.sempre.overnight.SimpleWorld.listValue (call edu.stanford.nlp.sempre.overnight.SimpleWorld.concat en.user.alice en.user.bob))
