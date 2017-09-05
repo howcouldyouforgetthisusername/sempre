@@ -1,0 +1,209 @@
+location that is location of weekly standup and that is location of weekly standup	15.021474902642248
+meeting whose end time is at least start time of weekly standup	14.295763869424007
+meeting whose start time is at least start time of weekly standup	13.327288871983992
+meeting whose start time is smaller than start time of weekly standup	13.314432186207153
+meeting whose start time is larger than start time of weekly standup	13.14819917581819
+meeting whose length is smaller than length of weekly standup	12.944660473300605
+meeting whose start time is at most start time of weekly standup	12.774839036352072
+meeting whose location is location that is location of weekly standup	12.694617272732676
+meeting whose end time is smaller than start time of weekly standup	12.638467021148697
+meeting whose end time is at least 10am or 3pm	12.476009524639299
+meeting whose end time is at least end time of weekly standup	12.42148004880074
+meeting whose start time is smaller than end time of weekly standup	12.223643771908044
+meeting whose length is smaller than three hours or one hour	11.904212354289765
+person that is attendee of weekly standup and that is attendee of weekly standup	11.828720009224392
+meeting whose length is at most length of weekly standup	11.776682399737828
+meeting whose start time is at least end time of weekly standup	11.72960309673299
+location that is location of meeting whose length is three hours	11.70259578385263
+meeting whose end time is larger than start time of weekly standup	11.654544433327956
+meeting whose end time is at most start time of weekly standup	11.644295410511576
+meeting whose start time is at least 10am or 3pm	11.486411332671889
+meeting whose start time is start time of weekly standup	11.451918037827317
+meeting whose start time is at most end time of weekly standup	11.4336284685613
+meeting whose length is at least length of weekly standup	11.405804447059072
+meeting whose start time is smaller than 10am or 3pm	11.320874934285003
+meeting whose location is greenberg cafe and whose location is greenberg cafe	11.30928815368291
+meeting whose length is three hours and whose location is greenberg cafe	11.174288349924408
+meeting whose length is three hours and whose length is three hours	11.155195286925812
+meeting whose end time is at most end time of weekly standup	11.124271889262127
+location that is location of meeting whose location is greenberg cafe	11.09824098905433
+meeting whose end time is 10am and whose length is three hours	11.053389255916107
+meeting whose start time is 10am and whose length is three hours	11.047749817027636
+meeting whose location is greenberg cafe and whose length is three hours	10.970604680407646
+meeting whose attendee is person that is attendee of weekly standup	10.934158400387112
+meeting whose length is larger than length of weekly standup	10.814670101089336
+meeting whose start time is 10am and whose location is greenberg cafe	10.812745711222963
+meeting whose attendee is alice and whose location is greenberg cafe	10.748003965925573
+meeting whose end time is larger than end time of weekly standup	10.709084403413327
+person that is attendee of meeting whose attendee is alice	10.69962325511755
+meeting whose start time is larger than end time of weekly standup	10.6874839398719
+meeting whose end time is 10am and whose location is greenberg cafe	10.609438048709007
+meeting whose end time is larger than 10am or 3pm	10.475689690339097
+meeting whose length is three hours and whose end time is 10am	10.412270834505966
+meeting whose length is three hours and whose start time is 10am	10.40068768588903
+meeting whose attendee is alice and whose length is three hours	10.347422910634503
+person that is attendee of weekly standup or annual review	10.336965194359776
+meeting whose end time is at most 10am or 3pm	10.29737768723346
+person that is attendee of meeting whose length is three hours	10.277992589329777
+person that is attendee of meeting whose location is greenberg cafe	10.143925520320627
+location that is location of meeting whose start time is 10am	10.130387928724776
+meeting whose location is greenberg cafe and whose date is jan 2	10.114189732921405
+meeting whose attendee is attendee of weekly standup	10.099778998021701
+meeting whose start time is larger than 10am or 3pm	10.065667720313558
+meeting whose length is larger than three hours or one hour	10.009775503206802
+meeting whose location is greenberg cafe and whose start time is 10am	9.911661354636149
+location that is location of meeting whose attendee is alice	9.895802390309543
+meeting whose end time is start time of weekly standup	9.89423684403564
+location that is location of the least number of meeting	9.864789440000163
+meeting whose start time is end time of weekly standup	9.855906206095499
+meeting whose date is jan 2 and whose length is three hours	9.831081143439384
+meeting whose start time is 10am and whose end time is 10am	9.789107716022082
+meeting whose location is greenberg cafe and whose attendee is alice	9.774238601009305
+meeting whose length is at most three hours or one hour	9.707059818048675
+meeting whose start time is at most 10am or 3pm	9.663712643305827
+meeting whose length is at least three hours or one hour	9.652742475733815
+meeting whose end time is 10am and whose date is jan 2	9.641274207939592
+meeting whose length is three hours and whose attendee is alice	9.599602295645429
+meeting whose end time is smaller than end time of weekly standup	9.5454259773988
+meeting whose start time is 10am and whose date is jan 2	9.528511223856365
+meeting whose end time is end time of weekly standup	9.518893380923263
+location that is location of meeting whose date is jan 2	9.499070510012066
+meeting whose length is length of weekly standup	9.482112952358975
+meeting whose length is three hours and whose date is jan 2	9.472990227056822
+person that is attendee of meeting whose end time is 10am	9.41818924278726
+meeting whose end time is smaller than 10am or 3pm	9.416762764046242
+location that is location of more than two meeting	9.413431508380782
+location that is location of meeting whose end time is 10am	9.383796454100567
+location that is location of weekly standup or annual review	9.333351240471876
+meeting whose end time is 10am and whose attendee is alice	9.312891749005225
+meeting whose date is jan 2 and whose location is greenberg cafe	9.311348749055785
+meeting whose location is greenberg cafe and whose end time is 10am	9.284603633839488
+meeting that is important and whose location is greenberg cafe	9.266460238364155
+meeting whose date is smaller than jan 2 or jan 3	9.26059591980839
+meeting whose start time is 10am or 3pm	9.252672834525647
+meeting whose location is greenberg cafe or central office	9.241825762559841
+meeting that is important and whose length is three hours	9.220835702604878
+location that is location of at least two meeting	9.188718794439946
+person that is attendee of meeting whose date is jan 2	9.128373594841563
+person that is attendee of less than two meeting	9.093643971386546
+person that is attendee of the most number of meeting	9.022778576881183
+meeting whose attendee is alice and whose end time is 10am	8.956159369375241
+meeting whose date is smaller than date of weekly standup	8.950092647059508
+meeting whose date is larger than jan 2 or jan 3	8.93248352993517
+meeting whose end time is 10am and whose start time is 10am	8.915625349669241
+person that is attendee of meeting whose start time is 10am	8.857042392178927
+meeting whose date is at least jan 2 or jan 3	8.827315158409212
+meeting whose start time is 10am and whose attendee is alice	8.802953957828322
+meeting whose attendee is alice and whose attendee is alice	8.798638498193535
+person that is attendee of meeting that is important	8.776255001974071
+meeting whose end time is 10am and whose end time is 10am	8.741431971208586
+location that is location of meeting that is important	8.710092828607662
+meeting whose date is at least date of weekly standup	8.623202542612116
+meeting whose attendee is alice and whose date is jan 2	8.562458697642738
+meeting whose start time is 10am and whose start time is 10am	8.532435177060869
+meeting whose attendee is alice and whose start time is 10am	8.518350587164619
+meeting whose length is smaller than three hours	8.46943360353377
+person that is attendee of more than two meeting	8.433561181009425
+meeting whose date is at most date of weekly standup	8.401859453859789
+meeting whose date is larger than date of weekly standup	8.387026347090396
+meeting whose location is greenberg cafe and that is important	8.347052942977745
+meeting whose date is at most jan 2 or jan 3	8.283225243172232
+meeting whose date is jan 2 and whose date is jan 2	8.252348412145386
+location that is location of the most number of meeting	8.222276481928818
+person that is attendee of at least two meeting	8.219491089210223
+meeting whose date is jan 2 and whose attendee is alice	8.160617846016784
+meeting whose attendee is alice and that is important	8.112827336137757
+location that is location of less than two meeting	8.077177892327434
+location that is location of weekly standup	8.060980435749212
+meeting whose length is three hours and that is important	8.0197130852192
+person that is attendee of the least number of meeting	7.995816576601795
+meeting whose length is at most three hours	7.975711064595277
+meeting whose end time is smaller than 10am	7.893217538591255
+meeting whose length is larger than three hours	7.881517723040853
+meeting whose length is at least three hours	7.870752676430863
+meeting that is important and whose start time is 10am	7.801162940788826
+meeting whose location is location of weekly standup	7.797346225405562
+location that is location of two meeting	7.714875297539292
+location that is location of at most two meeting	7.704919149587519
+meeting that has the largest start time	7.6977673427496285
+meeting whose end time is 10am and that is important	7.630584842951573
+person that is not attendee of weekly standup	7.621091412433125
+meeting whose date is smaller than jan 2	7.563245466015085
+meeting that is important and whose attendee is alice	7.538426796789939
+meeting whose end time is 10am or 3pm	7.502680583667734
+meeting whose date is jan 2 and whose start time is 10am	7.466064764961226
+location that is not location of weekly standup	7.451488427269723
+meeting whose length is three hours or one hour	7.400602875314056
+meeting whose date is jan 2 and that is important	7.379551084835593
+meeting whose length is not three hours	7.374065210490494
+meeting whose date is date of weekly standup	7.317900585108656
+meeting whose start time is 10am and that is important	7.265934978172613
+meeting whose attendee is alice or bob	7.255614640839141
+meeting that has less than two location	7.24587980490429
+meeting that is important and whose end time is 10am	7.222932830479221
+meeting whose date is jan 2 and whose end time is 10am	7.180007074730507
+meeting whose start time is smaller than 10am	7.1765008100814605
+meeting whose start time is at most 10am	7.134326077770452
+meeting whose end time is at least 10am	7.071810439947909
+meeting whose end time is larger than 10am	7.020909068557424
+meeting that has less than two attendee	6.955460911373342
+meeting whose start time is at least 10am	6.913783470597227
+meeting that has the least number of attendee	6.8754765944417455
+meeting whose length is three hours	6.837393378879586
+meeting that is important and whose date is jan 2	6.835359058359166
+meeting whose date is jan 2 or jan 3	6.82020981069863
+meeting whose end time is at most 10am	6.755155524046814
+meeting that has the most number of attendee	6.752514455468694
+meeting that has more than two attendee	6.742671440553481
+meeting whose date is at least jan 2	6.6971504508401765
+meeting whose location is not greenberg cafe	6.676061705999672
+meeting whose date is larger than jan 2	6.658067786764946
+meeting that has the least number of location	6.584491059323207
+meeting that has the largest length	6.4960496945406545
+meeting whose start time is not 10am	6.479686552012025
+meeting that has two attendee	6.468602206855785
+meeting whose date is at most jan 2	6.3863912252208745
+meeting that has more than two location	6.268041173669404
+meeting whose location is greenberg cafe	6.214323250227318
+meeting whose end time is not 10am	6.19162596823675
+meeting that has at least two attendee	6.187644689993544
+person that is attendee of at most two meeting	6.139317498276004
+meeting that has at least two location	6.080686256672538
+person that is attendee of weekly standup	6.065924249156033
+start time of weekly standup	6.026112043757163
+person that is attendee of two meeting	6.016079093274071
+meeting that has the largest end time	5.9551827946449
+meeting that has at most two location	5.901149227562953
+meeting that is important and that is important	5.8669682472185825
+meeting that has the most number of location	5.853196382529887
+total length of meeting	5.701003676762397
+meeting that has two location	5.535953619445818
+meeting that has the smallest start time	5.479985943432024
+meeting that has at most two attendee	5.444937025571036
+meeting whose start time is larger than 10am	5.364989618892165
+meeting whose attendee is alice	5.307402320117892
+meeting that has the smallest end time	5.2623352153630405
+greenberg cafe or central office	5.144370510304702
+meeting whose attendee is not alice	5.069708778355416
+meeting whose start time is 10am	5.046425339454004
+meeting whose date is not jan 2	5.018290164861675
+meeting whose end time is 10am	4.967906909097268
+attendee of weekly standup	4.929589578777867
+meeting that has the largest date	4.88630861838053
+weekly standup or annual review	4.815121441740567
+meeting that has the smallest date	4.665451611006602
+average length of meeting	4.616701600345837
+end time of weekly standup	4.6101405525960955
+meeting that has the smallest length	4.510526026437573
+meeting whose date is jan 2	4.416911649208757
+meeting that is important	4.356428357532871
+number of meeting	3.98396442860244
+length of weekly standup	3.8282663904077707
+three hours or one hour	3.727980002945774
+location of weekly standup	3.4655123755274717
+number of location	3.386080516881254
+number of person	3.279550546359139
+jan 2 or jan 3	3.2205314124570767
+10am or 3pm	3.218680442843575
+date of weekly standup	3.1433466647434765
+alice or bob	2.540981239251117

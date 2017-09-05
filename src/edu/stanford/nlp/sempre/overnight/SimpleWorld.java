@@ -799,6 +799,21 @@ public final class SimpleWorld {
     }
   }
 
+  public static class NewtonDomain extends Domain {
+    public void createEntities(int numEntities) {
+      List<Value> tables = makeValues(numEntities, L("en.table.inventory", "en.table.suppliers"));
+      List<Value> users = makeValues(L("en.user.alice", "en.user.bob"));
+      List<Value> columnTypes = makeValues(L("en.column_type.numeric", "en.column_type.text"));
+      for (Value e : users) {
+        insertDB(e, "has_access", sampleMultinomial(tables, sampleInt(0, 3)));
+        insertDB(e, "created", sampleMultinomial(tables, sampleInt(0, 3)));
+      }
+      for (Value e : tables) {
+        insertDB(e, "has_col_type", sampleMultinomial(columnTypes, sampleInt(0, 3)));
+      }
+    }
+  }
+
   // Domain that corresponds to reading from a file
   public static class ExternalDomain extends Domain {
     public void createEntities(int numEntities) {

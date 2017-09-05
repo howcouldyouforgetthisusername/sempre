@@ -1,0 +1,511 @@
+block that is left of block 1 and that is left of block 1	12.153652260368611
+block that is left of block 1 and whose width is 3 inches	12.108734829611736
+block whose width is 3 inches and whose width is 3 inches	12.014213198234529
+block that is below block 1 and whose width is 3 inches	11.805863762648983
+block whose width is 3 inches and that block 1 is left of	11.716260769157927
+block whose width is 3 inches and whose length is 3 inches	11.658407532830498
+block that is left of block that is left of block 1	11.651057273970947
+block whose width is 3 inches and that is left of block 1	11.468150055856492
+block whose width is 3 inches and whose shape is a pyramid	11.370580694224333
+block that is left of block 1 and whose shape is a pyramid	11.349478636030824
+block whose height is 3 inches and whose length is 3 inches	11.267011042733966
+block that is above block whose shape is a pyramid	11.156655286914766
+block that is left of block 1 and whose height is 3 inches	11.06350162279875
+block whose width is smaller than length of block 1	11.062275733519543
+block whose length is 3 inches and whose shape is a pyramid	11.042960414916854
+block whose length is 3 inches and whose width is 3 inches	10.990608126901616
+block whose width is 3 inches and whose height is 3 inches	10.962168205016237
+block whose height is 3 inches and whose width is 3 inches	10.911902210244797
+block whose shape is a pyramid and whose width is 3 inches	10.895266147211451
+block that is left of block whose shape is a pyramid	10.893510851332355
+block that is left of block 1 and whose length is 3 inches	10.889335548199057
+block whose width is at least length of block 1	10.836280765761602
+block that is above block whose width is 3 inches	10.726528636943025
+block that block 1 is right of and that is left of block 1	10.714553693530036
+block that is below block 1 and whose length is 3 inches	10.704929046249802
+block whose width is 3 inches and that block 1 is above	10.704022927602146
+block whose length is 3 inches and that is left of block 1	10.687768780526554
+block that is below block 1 and that is left of block 1	10.667158718230462
+block whose width is at least height of block 1	10.665583501497046
+block whose shape is a pyramid and that is left of block 1	10.641032414807846
+block whose width is at most length of block 1	10.630970258374505
+block whose width is at least width of block 1	10.603408946739872
+block that is right of block that is left of block 1	10.596133069010904
+block that is left of block whose length is 3 inches	10.58746435656931
+block that is below block 1 and that is below block 1	10.54405083524001
+block whose color is red and whose width is 3 inches	10.509710302915254
+block whose width is smaller than height of block 1	10.504591104307618
+block that block whose shape is a pyramid is left of	10.502392312954047
+block that block whose shape is a pyramid is below	10.499396895873227
+block that is left of block 1 and that block 1 is left of	10.455135507807858
+block that is below block 1 and that block 1 is left of	10.445400964267662
+block that is above block 1 and whose width is 3 inches	10.422849645404662
+block that block 1 is right of and whose length is 3 inches	10.413087253864738
+block whose height is larger than length of block 1	10.404137417528146
+block that block 1 is right of and whose width is 3 inches	10.400555196871139
+block that block 1 is left of and whose width is 3 inches	10.395822762189306
+block that is above block whose length is 3 inches	10.393141981282154
+block whose height is 3 inches and whose shape is a pyramid	10.389829666334185
+block that is above block that is left of block 1	10.38283972738303
+block that block whose length is 3 inches is left of	10.379914767472533
+block whose height is 3 inches and that is left of block 1	10.375885073462731
+block whose shape is a pyramid and whose shape is a pyramid	10.363880457001827
+block that is left of block 1 and that is right of block 1	10.36113976788067
+block that block 1 is left of and whose shape is a pyramid	10.35192679850638
+block whose shape is a pyramid and whose length is 3 inches	10.350228476208299
+block whose width is 3 inches and that is below block 1	10.345150536798918
+block whose width is smaller than 3 inches or 6 inches	10.341919306130052
+block that is right of block whose shape is a pyramid	10.300638471117521
+block that is above block 1 and that is left of block 1	10.279719753386209
+block whose length is larger than height of block 1	10.24995807938701
+block that is below block 1 and whose height is 3 inches	10.223632668001958
+block whose length is 3 inches and whose length is 3 inches	10.191404536519562
+block that is right of block whose width is 3 inches	10.16912173609481
+block whose length is at least length of block 1	10.12068362078735
+block whose height is 3 inches and that is above block 1	10.106101135364657
+block that is left of block 1 and that block 1 is right of	10.083711479387421
+block that is below block 1 and that is above block 1	10.079236452213054
+block that block 1 is above and whose width is 3 inches	10.064624261291417
+block whose length is 3 inches and that block 1 is left of	10.060530832767222
+block that is below block 1 and whose shape is a pyramid	10.056584602185964
+block whose shape is a pyramid and that block 1 is left of	10.050007618455975
+block that is above block 1 and whose height is 3 inches	10.035079513222689
+block whose width is 3 inches and whose color is red	10.028738931450993
+block that is below block 1 and that block 1 is below	10.017098656920158
+block whose length is smaller than length of block 1	10.014111232555098
+block that block whose length is 3 inches is above	10.001589094216369
+block that block that is below block 1 is left of	9.995634960788026
+block that is left of block 1 and that is below block 1	9.975851618980357
+block that is left of block 1 and whose color is red	9.96797893056662
+block that is left of block that block 1 is left of	9.955039165388156
+block whose width is smaller than width of block 1	9.947506299964799
+block whose height is larger than width of block 1	9.935554729662256
+block that is left of block 1 and that block 1 is below	9.92527039189314
+block whose width is 3 inches and that block 1 is below	9.924820303788508
+block that block 1 is above and that is left of block 1	9.92113283003054
+block whose length is larger than length of block 1	9.920857715580047
+block whose shape is a pyramid and whose height is 3 inches	9.90933040325896
+block whose shape is a pyramid and that block 1 is right of	9.895879892744095
+block that is below block whose width is 3 inches	9.895240595425765
+block whose length is smaller than 3 inches or 6 inches	9.89211202830689
+block that is left of block 1 and that is above block 1	9.891434706972058
+block that is left of block whose width is 3 inches	9.838131803727013
+block that is below block 1 and whose color is red	9.837625683639995
+block that is left of block 1 and that block 1 is above	9.818221989717703
+block that is above block that is right of block 1	9.815474192458348
+block whose color is red and that is left of block 1	9.805579031488886
+block whose length is larger than width of block 1	9.800784316840254
+block that is above block 1 and whose shape is a pyramid	9.79984567228845
+block that is above block that block 1 is right of	9.795268085099353
+block whose width is 3 inches and that is right of block 1	9.783207834674256
+block that is right of block 1 and whose width is 3 inches	9.77355124651353
+block whose length is 3 inches and that is below block 1	9.76211489319675
+block whose width is at least 3 inches or 6 inches	9.761290966987094
+block whose height is 3 inches and that block 1 is left of	9.7493454992579
+block that block 1 is right of and whose shape is a pyramid	9.748628532359835
+block that block 1 is left of and whose height is 3 inches	9.738548172520334
+block that is left of block whose height is 3 inches	9.737268531141149
+block that block 1 is right of and that block 1 is left of	9.72592488347362
+block that is below block 1 and that is right of block 1	9.706508841122861
+block whose width is at most 3 inches	9.69815138840171
+block whose color is red and that is above block 1	9.692762984644995
+block whose length is 3 inches and whose color is red	9.686449739379645
+block whose width is 3 inches and that is above block 1	9.674472814458351
+block whose length is smaller than width of block 1	9.668865621757364
+block that is right of block whose length is 3 inches	9.662828550124072
+block whose length is at least width of block 1	9.660528912989868
+block that is above block 1 and whose length is 3 inches	9.650519063082903
+block whose shape is a pyramid and that is right of block 1	9.649007259401522
+block that block that block 1 is right of is right of	9.647430606823916
+block that is below block 1 and that block 1 is right of	9.645977435795102
+block whose color is red and that block 1 is left of	9.644095786934809
+block whose height is smaller than height of block 1	9.617424020731274
+block that is below block whose length is 3 inches	9.609828897462467
+block that is right of block 1 and whose shape is a pyramid	9.59669834358907
+block that is left of block that is right of block 1	9.59219398595328
+block whose height is 3 inches and whose height is 3 inches	9.587600673313293
+block whose height is smaller than width of block 1	9.565985732921506
+block that block that is left of block 1 is above	9.56341230729992
+block whose width is 3 inches and that is special	9.560983088136945
+block that block that block 1 is right of is above	9.559914245131534
+block that block that is right of block 1 is above	9.553733874439763
+block that block whose width is 3 inches is right of	9.55080477218442
+block that block whose shape is a pyramid is right of	9.545223220639958
+block whose shape is a pyramid and that is below block 1	9.544969568757384
+block that block that is below block 1 is above	9.534199384872814
+block whose shape is a pyramid and that block 1 is below	9.529466752019669
+block whose height is at most length of block 1	9.50436132344168
+block whose height is larger than height of block 1	9.487930332954875
+block whose width is at most height of block 1	9.476316112301975
+block whose color is red and whose shape is a pyramid	9.474296313725455
+block that block whose shape is a pyramid is above	9.473383438986913
+block that block whose length is 3 inches is right of	9.46951767584033
+block that block 1 is left of and whose length is 3 inches	9.456089688647367
+block whose width is larger than width of block 1	9.455298651634198
+block whose width is 3 inches and that block 1 is right of	9.448811450728687
+block whose color is red and that is below block 1	9.448617202617925
+block that is above block that block 1 is below	9.439965033334484
+block whose height is 3 inches and that is below block 1	9.433111522108359
+block that block whose height is 3 inches is above	9.425887159307667
+block whose length is 3 inches and that is above block 1	9.421506734848872
+block whose length is smaller than height of block 1	9.419322942781129
+block that is below block whose shape is a pyramid	9.41881726801406
+block whose length is at least height of block 1	9.39959179376003
+block whose width is at least 3 inches	9.394297173282526
+block that is above block that block 1 is above	9.38659050800923
+block whose shape is a pyramid and that is above block 1	9.378255313519807
+block that is left of block whose color is red	9.376895640432098
+block that is right of block that is below block 1	9.371688617702608
+block that block that block 1 is left of is right of	9.343583879041581
+block that is above block that block 1 is left of	9.31974266502476
+block whose length is 3 inches and that block 1 is below	9.317984573422754
+block that is special and that is left of block 1	9.307661137717732
+block whose length is 3 inches and that is right of block 1	9.29752217909514
+block that is left of block that is below block 1	9.287080746985817
+block whose length is 3 inches and that block 1 is right of	9.25843968084802
+block that block 1 is left of and that is below block 1	9.255849079358482
+block that is left of block 1 and that is special	9.238062883666437
+block whose height is 3 inches and that block 1 is below	9.234759301381565
+block that block 1 is right of and whose height is 3 inches	9.233359095723
+block that is below block 1 and that block 1 is above	9.231130901094922
+block that block that is left of block 1 is below	9.226528115472336
+block that block 1 is below and whose width is 3 inches	9.21879422015299
+block that block whose length is 3 inches is below	9.213256852642921
+block whose length is 3 inches and whose height is 3 inches	9.202580179837948
+block that block 1 is right of and that block 1 is above	9.197098439391453
+block that is right of block 1 and whose height is 3 inches	9.186633398405343
+block that is above block whose height is 3 inches	9.177338599996176
+block whose width is larger than 3 inches	9.164590066513027
+block that is right of block that block 1 is left of	9.157117760305974
+block whose length is at least 3 inches or 6 inches	9.154561895600443
+block that is above block 1 and that is below block 1	9.152941497278446
+block that block whose width is 3 inches is left of	9.13366184395555
+block whose color is red and whose color is red	9.132718098213426
+block that is right of block 1 and that is left of block 1	9.130216601158832
+block that is above block that is below block 1	9.12571478185307
+block that is above block 1 and that is right of block 1	9.120830171454244
+block whose height is at least length of block 1	9.114998644932566
+block whose color is red and whose height is 3 inches	9.102651061938706
+block whose height is 3 inches and that block 1 is right of	9.078706892182925
+block whose height is smaller than 3 inches or 6 inches	9.070068077816853
+block that block 1 is above and whose shape is a pyramid	9.05964825246013
+block whose length is at most 3 inches	9.045618292134302
+block whose length is 3 inches and that block 1 is above	9.027160586483857
+block that is special and whose length is 3 inches	9.025868187114988
+block that block whose color is red is left of	9.025021073751414
+block that block that is below block 1 is right of	9.022466288616082
+block whose height is larger than 3 inches or 6 inches	9.018498154213841
+block that is left of block that block 1 is right of	9.007695307379622
+block that is below block that block 1 is left of	9.004698784013588
+block that block that block 1 is right of is below	9.001763268995305
+block that is above block 1 and that block 1 is below	8.99805192890814
+block whose length is larger than 3 inches or 6 inches	8.984669047241994
+block that block 1 is left of and that is left of block 1	8.980887548654096
+block that block 1 is left of and whose color is red	8.980706491446979
+block that is above block 1 and whose color is red	8.979855197731451
+block that is below block 1 and that is special	8.972787061193305
+block that is left of block 1 or block 2	8.969747150771127
+block that is special and whose width is 3 inches	8.964428613231217
+block whose width is at most width of block 1	8.963283950907007
+block whose height is 3 inches and whose color is red	8.920103992241213
+block that at least two block is above	8.906110863147552
+block that block whose color is red is above	8.902135336279104
+block that block 1 is below and whose shape is a pyramid	8.894914013713127
+block that block that is left of block 1 is right of	8.887325061024388
+block whose color is red and that block 1 is right of	8.87719050866615
+block whose width is larger than length of block 1	8.873091116195143
+block whose width is larger than 3 inches or 6 inches	8.86678025711364
+block that is left of block that block 1 is below	8.864346434596385
+block that at least two block is right of	8.85904618890062
+block that block that is right of block 1 is left of	8.850608041583635
+block whose color is red and that block 1 is below	8.847071656309193
+block whose color is red and whose length is 3 inches	8.833180420327539
+block that is right of block 1 and whose length is 3 inches	8.832721097478784
+block whose height is 3 inches and that block 1 is above	8.828893231231872
+block that block 1 is below and whose height is 3 inches	8.827892005461177
+block whose color is red and that block 1 is above	8.818910670941573
+block that is special and that block 1 is left of	8.813243029258343
+block whose length is at most length of block 1	8.811957957176386
+block that block 1 is right of and that block 1 is right of	8.798312476628501
+block that is special and whose shape is a pyramid	8.793795034082994
+block that block 1 is below and that is left of block 1	8.793352591540625
+block that block whose color is red is right of	8.791293693471783
+block that block whose height is 3 inches is right of	8.782004259654293
+block whose height is 3 inches and that is right of block 1	8.781186377315768
+block that is above block 1 and that block 1 is right of	8.750004626561644
+block whose shape is a pyramid and that is special	8.7327882032191
+block that block that block 1 is left of is above	8.722727384125587
+block that is below block that is left of block 1	8.707278986120304
+block that block 1 is right of and that is below block 1	8.706294343124656
+block that block that block 1 is right of is left of	8.663464952926306
+block whose height is 3 inches and that is special	8.658537664800674
+block that is right of block 1 and that is above block 1	8.647847897710191
+block whose height is smaller than length of block 1	8.63205768443957
+block whose color is color of block 1	8.621864363842576
+block that block that block 1 is left of is below	8.610022342191098
+block that is right of block 1 and that is below block 1	8.60608962265852
+block that block that is below block 1 is below	8.603772617978766
+block that is left of block that block 1 is above	8.59236413995932
+block that is right of block 1 and that block 1 is left of	8.58052881286669
+block that is below block that is below block 1	8.573816948107213
+block that block 1 is below and whose length is 3 inches	8.55909568981638
+block that block 1 is left of and that is special	8.54550097260755
+block that is above block 1 and that block 1 is left of	8.54534357463971
+block that is right of block whose height is 3 inches	8.54352870742123
+block whose length is 3 inches or 6 inches	8.54338853603923
+block that is above block 1 and that is above block 1	8.540721201620443
+block that block that is left of block 1 is left of	8.52996649801725
+block whose length is 3 inches and that is special	8.51720118370397
+block that block whose color is red is below	8.514982177804994
+block that block 1 is left of and that block 1 is left of	8.51331808378888
+block that block 1 is right of and whose color is red	8.507760848878133
+block that block that is above block 1 is above	8.501507444295513
+block whose height is at least 3 inches or 6 inches	8.497344184611608
+block whose shape is a pyramid and whose color is red	8.489038284969135
+block that is above block that is above block 1	8.469827294308297
+block that is above block 1 and that is special	8.457917732154927
+block whose height is at least height of block 1	8.427437364319502
+block that block that is above block 1 is left of	8.418349411000271
+block that block 1 is below and that is below block 1	8.393411453468115
+block that is special and whose height is 3 inches	8.390955645152092
+block that is right of block 1 and that block 1 is above	8.384969353537176
+block that block 1 is left of and that is right of block 1	8.376603525186821
+block that block whose height is 3 inches is left of	8.374129207711185
+block whose length is length of block 1	8.355929921696228
+block that is right of block that block 1 is above	8.352597944292967
+block whose width is at most 3 inches or 6 inches	8.327589460701821
+block that block 1 is above and whose length is 3 inches	8.321944853868095
+block whose length is at most height of block 1	8.312248731858423
+block that block 1 is right of and that is above block 1	8.308066532467906
+block whose height is at most width of block 1	8.303964210551888
+block whose shape is a pyramid and that block 1 is above	8.288844499721106
+block whose height is at most height of block 1	8.276366788964912
+block that less than two block is left of	8.268894738844207
+block that block 1 is above and that is right of block 1	8.261764280554338
+block whose color is red and that is special	8.259733544969027
+block that is below the most number of block	8.25604359780725
+block that block that block 1 is left of is left of	8.246536437911951
+block that is left of more than two block	8.242648766529406
+block that is right of block that block 1 is right of	8.23145142778439
+block that is right of block 1 and that block 1 is right of	8.226401696898876
+block that block 1 is right of and that is right of block 1	8.222270012696267
+block that is special and that is above block 1	8.221210581246067
+block that the least number of block is right of	8.217167203338995
+block that is special and whose color is red	8.215972710257121
+block that block 1 is right of and that block 1 is below	8.20861066817332
+block that is below block that block 1 is right of	8.191341086929224
+block that is right of block that block 1 is below	8.189672355083841
+block that block 1 is left of and that block 1 is above	8.187416494966364
+block that block whose width is 3 inches is above	8.18602507363448
+block that is above block whose color is red	8.182138474825782
+block whose length is at most width of block 1	8.171889155490799
+block that is right of block whose color is red	8.164795701667158
+block that block whose height is 3 inches is below	8.144407391278763
+block that is right of block 1 and that block 1 is below	8.137325901295684
+block whose width is smaller than 3 inches	8.134368640120632
+block that block that is right of block 1 is below	8.126947778193314
+block that block 1 is left of and that block 1 is right of	8.107116917057112
+block that is above block that is special	8.104895935827713
+block that is left of the least number of block	8.099879629973984
+block whose length is width of block 1	8.096057284778563
+block that block 1 is left of and that block 1 is below	8.085050433132999
+block that is left of block that is special	8.082232132428219
+block that block 1 or block 2 is above	8.074807714414186
+block that is above block 1 and that block 1 is above	8.07365396312589
+block that is below block whose height is 3 inches	8.057669299533332
+block that block whose width is 3 inches is below	8.05593347727569
+block whose height is at least width of block 1	8.04681814300086
+block that block 1 is below and that block 1 is left of	8.036261232547721
+block that the most number of block is left of	8.015191992620938
+block that is right of block 1 and whose color is red	8.008414094043202
+block that is right of block 1 and that is right of block 1	8.005606344029335
+block whose color is red and that is right of block 1	8.000005006522647
+block that has at least two color	7.989446027213466
+block that block that is right of block 1 is right of	7.985201620038994
+block whose length is larger than 3 inches	7.984157018002879
+block that is special and that is below block 1	7.978090099141222
+block that is special and that block 1 is right of	7.971268551291367
+block whose height is at most 3 inches or 6 inches	7.9553210783383
+block that is above block 1 or block 2	7.939299309810847
+block that block 1 or block 2 is left of	7.9239373348371185
+block whose shape is a pyramid or a cube	7.9237060065559515
+block that block that block 1 is above is below	7.9225800541587175
+block whose length is at most 3 inches or 6 inches	7.919471555165822
+block that is left of block that is above block 1	7.918573440260322
+block that has at least two shape	7.913970037622792
+block that is below block whose color is red	7.910700990392938
+block that is right of block that is right of block 1	7.89392705389695
+block that is below block that is right of block 1	7.8932266380703044
+block that block that block 1 is above is right of	7.883182497849523
+block that block 1 is above and that is special	7.880383437901257
+block that block that block 1 is above is above	7.877314841233049
+block that block 1 is right of and that is special	7.868257634359489
+block that block 1 is below and that is right of block 1	7.86722729643941
+block that block 1 is above and whose height is 3 inches	7.821964365140218
+block that the least number of block is left of	7.81796488992218
+block that is special and that is right of block 1	7.805170697706452
+block that block that block 1 is below is right of	7.804729665648063
+block that block 1 is above and that is below block 1	7.79986607130014
+block that block that block 1 is above is left of	7.779645412933548
+block that is right of block that is special	7.778729316963166
+block that block 1 is above and that block 1 is left of	7.777436925283531
+block that the least number of block is above	7.774623318420114
+block that block 1 is above and that block 1 is above	7.74898441985416
+block that block that block 1 is below is left of	7.712046556205125
+block that is right of the most number of block	7.701772252140951
+block that block that is above block 1 is below	7.699601184458091
+block that is below at least two block	7.681600126905448
+block that block 1 is below and that block 1 is right of	7.670795796140286
+block whose shape is shape of block 1	7.6582576218163325
+block that block that is above block 1 is right of	7.618123099833862
+block that the least number of block is below	7.616505882907755
+block that block 1 is above and that block 1 is below	7.607251526494757
+block whose width is larger than height of block 1	7.597552479759217
+block that block 1 is below and that is above block 1	7.567811161096507
+block that block 1 is left of and that is above block 1	7.560053005596945
+block that block 1 is below and whose color is red	7.5577851701009875
+block that block 1 is below and that block 1 is above	7.511506917161947
+block that less than two block is right of	7.509138020503507
+block that is below block that block 1 is above	7.4852789997533264
+block that block 1 is below and that block 1 is below	7.481761842466924
+block that is right of block that is above block 1	7.479927978380298
+block that block 1 is above and that block 1 is right of	7.454217258166557
+block that is above at most two block	7.443733008809145
+block that is right of block 1 and that is special	7.436808912299346
+block whose height is length of block 1	7.431991919767503
+block that is special and that is special	7.418969214418791
+block that has less than two shape	7.418395191302507
+block that block 1 is above and whose color is red	7.409729086227648
+block that at least two block is left of	7.38799095498282
+block that block 1 is above and that is above block 1	7.375863126944998
+block that is below block that is above block 1	7.347042170670449
+block that is above the least number of block	7.3352319003075
+block that has more than two shape	7.313963618224154
+block whose length is at least 3 inches	7.310624884045364
+block whose color is red or green	7.310334708449925
+block whose width is 3 inches or 6 inches	7.297377822065643
+block that block 1 is below and that is special	7.280824068459682
+block that two block is left of	7.266337516932631
+block that is above more than two block	7.256061342187686
+block that block that is special is above	7.240665972628296
+block that at least two block is below	7.23322742764861
+block that two block is above	7.225722923458908
+block whose height is not 3 inches	7.197891636516409
+block whose height is larger than 3 inches	7.1971884678819835
+block that more than two block is above	7.1801149233116535
+block that block that is special is left of	7.172393163047791
+block that block that block 1 is below is above	7.162711534020285
+block whose length is smaller than 3 inches	7.151779571523635
+block that is above less than two block	7.097266120020946
+block whose length is height of block 1	7.096701007587621
+block that two block is right of	7.087224157839198
+block whose height is 3 inches or 6 inches	7.071122903904474
+block that is above at least two block	7.065456613708501
+block that is below block that block 1 is below	7.053600487962964
+block that block that block 1 is below is below	7.014809931597661
+block that is special and that block 1 is above	6.941391869002519
+block whose width is not 3 inches	6.940341445882205
+block that is below block that is special	6.918145236183042
+block that is right of the least number of block	6.868934599258543
+block that is special and that block 1 is below	6.847806634807041
+block that block that is special is right of	6.820142518758535
+block that has the most number of shape	6.819797936129568
+block whose length is not 3 inches	6.8182974823175
+block that is below more than two block	6.779712826455965
+block that is below two block	6.775162792740517
+block whose width is width of block 1	6.773723943005965
+block that is right of at most two block	6.753908549318477
+block that block 1 or block 2 is below	6.7434319333524035
+block that more than two block is left of	6.736731217916738
+block that is left of less than two block	6.729852585395769
+block whose height is at most 3 inches	6.719978989594056
+block whose height is smaller than 3 inches	6.712750729886658
+block that is right of block 1 or block 2	6.685119712941065
+block whose height is at least 3 inches	6.645943903886803
+block that is left of at most two block	6.625394806600397
+block that block that is special is below	6.591406635078484
+block that less than two block is above	6.587828831441647
+block that is below at most two block	6.586631180814045
+block that at most two block is right of	6.558594120783699
+block that two block is below	6.556104304028104
+block that is above the most number of block	6.539452400535578
+block that block 1 or block 2 is right of	6.5297713625537
+block whose width is height of block 1	6.50782352600198
+block whose width is 3 inches	6.452405055200312
+block that less than two block is below	6.436732273504639
+block that has more than two color	6.392964321514548
+block that not is below block 1	6.366643301696108
+block that the most number of block is right of	6.3647101593637165
+block whose shape is a pyramid	6.361593088003576
+block that is below less than two block	6.351372098888539
+block that is right of less than two block	6.335425737492762
+block whose shape is not a pyramid	6.331051906649921
+block that has less than two color	6.311006485764586
+block that is right of more than two block	6.304312984973191
+block that the most number of block is below	6.2868459938710055
+block that is below the least number of block	6.268206707363619
+block that at most two block is left of	6.214970337161687
+block whose height is height of block 1	6.213146616775533
+block that more than two block is right of	6.188202215775798
+block that not is right of block 1	6.156945053265861
+block whose height is width of block 1	6.1395647572731455
+block that is left of block 1	6.13734148224827
+block that is left of at least two block	6.128213539135055
+block that at most two block is below	6.091836785717025
+block that is right of at least two block	6.071980511008476
+block that the most number of block is above	6.0509312456808
+block that is left of two block	5.9626769782825395
+block that more than two block is below	5.922599965159363
+block that has the most number of color	5.898428067736277
+block that at most two block is above	5.891971176007525
+block that is above two block	5.855420264076267
+block whose width is length of block 1	5.847475349619197
+block that is below block 1 or block 2	5.7841273933108885
+block whose length is 3 inches	5.755083930221206
+block that has at most two color	5.689780385420675
+block that not is left of block 1	5.675890583917411
+block that is right of two block	5.65937148836114
+block that block 1 is left of	5.610454645307981
+block that has at most two shape	5.58311835310953
+block that not is above block 1	5.526974751847704
+block that has the largest width	5.4904091435523625
+block that has the least number of color	5.481663803545805
+block that is left of the most number of block	5.411608589424475
+block that is below block 1	5.376242164696588
+block that has the smallest width	5.367633783723683
+block that block 1 not is above	5.281185334660483
+block that block 1 not is left of	5.225679668590869
+block that has the smallest length	5.195096578203723
+block that has the least number of shape	5.119774057150902
+block that has the largest height	5.11226601649593
+block that block 1 not is right of	5.083863935734623
+block that has the smallest height	5.010030167733201
+block that block 1 is right of	4.937610812375702
+average length of block	4.874100390173753
+block that has the largest length	4.800622185777498
+block that has two shape	4.795999923220261
+block that is right of block 1	4.690983192079186
+block whose color is not red	4.690856336706762
+block that block 1 not is below	4.57310680928098
+block that block 1 is below	4.569478680653669
+block that block 1 is above	4.5600359081959425
+block that is above block 1	4.424143543802501
+average height of block	4.4239279173906825
+block whose height is 3 inches	4.36696933640971
+color of block 1	4.313399599703425
+total length of block	4.225311886154243
+shape of block 1	4.161821015159646
+a pyramid or a cube	4.156607309756751
+block whose color is red	4.087586060464863
+3 inches or 6 inches	3.97949283352891
+total height of block	3.925519744284114
+height of block 1	3.922046443736776
+block that has two color	3.8452592011220403
+total width of block	3.79890159016085
+block 1 or block 2	3.7868930075059417
+red or green	3.6968416506737123
+average width of block	3.4745835937499847
+block that is special	3.389452399610728
+length of block 1	3.1190073764171373
+width of block 1	2.967643808001624
+number of block	2.5298586860872443

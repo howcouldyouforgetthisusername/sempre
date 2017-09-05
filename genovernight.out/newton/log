@@ -1,0 +1,106 @@
+main() {
+  Execution directory: genovernight.out/newton
+  Grammar.read {
+    WARNING: Category not defined in the grammar: $RelNP; used in rule: $NumberRelNP -> $RelNP (JoinFn betaReduce forward (arg0 (lambda r (call edu.stanford.nlp.sempre.overnight.SimpleWorld.ensur...(128 total)
+    WARNING: Category not defined in the grammar: $VP; used in rule: $Intermediate1 -> that $VP (SelectFn 0)
+    WARNING: Category not defined in the grammar: $RelNP; used in rule: $Intermediate3 -> whose $RelNP (SelectFn 0)
+    WARNING: Category not defined in the grammar: $RelNP; used in rule: $Intermediate6 -> whose $RelNP (SelectFn 0)
+    WARNING: Category not defined in the grammar: $RelNP; used in rule: $Intermediate9 -> whose $RelNP (SelectFn 0)
+    WARNING: Category not defined in the grammar: $RelNP; used in rule: $Intermediate61 -> $Intermediate60 $RelNP (SelectFn 1)
+    WARNING: Category not defined in the grammar: $RelNP; used in rule: $Intermediate66 -> $Intermediate65 $RelNP (SelectFn 1)
+    WARNING: Category not defined in the grammar: $RelNP; used in rule: $Intermediate70 -> $Intermediate69 $RelNP (SelectFn 1)
+    WARNING: Category not defined in the grammar: $RelNP; used in rule: $Intermediate92 -> $Intermediate91 $RelNP (SelectFn 1)
+    WARNING: Category not defined in the grammar: $RelNP; used in rule: $Intermediate98 -> $Intermediate97 $RelNP (SelectFn 1)
+    WARNING: Category not defined in the grammar: $RelNP; used in rule: $Intermediate113 -> $Intermediate112 $RelNP (SelectFn 1)
+    WARNING: Category not defined in the grammar: $RelNP; used in rule: $Intermediate121 -> $Intermediate120 $RelNP (SelectFn 1)
+    WARNING: Category not defined in the grammar: $RelNP; used in rule: $CP1 -> $Intermediate139 $RelNP (JoinFn forward betaReduce)
+    WARNING: Category not defined in the grammar: $RelNP; used in rule: $CP1 -> $Intermediate142 $RelNP (JoinFn forward betaReduce)
+    WARNING: Category not defined in the grammar: $RelNP; used in rule: $CP1 -> $Intermediate147 $RelNP (JoinFn forward betaReduce)
+    WARNING: Category not defined in the grammar: $RelNP; used in rule: $CP1 -> $Intermediate152 $RelNP (JoinFn forward betaReduce)
+    WARNING: Category not defined in the grammar: $RelNP; used in rule: $CP1 -> $Intermediate157 $RelNP (JoinFn forward betaReduce)
+    WARNING: Category not defined in the grammar: $RelNP; used in rule: $Intermediate187 -> $Intermediate186 $RelNP (SelectFn 1)
+    WARNING: Category not defined in the grammar: $RelNP; used in rule: $Intermediate192 -> $Intermediate191 $RelNP (SelectFn 1)
+    WARNING: Category not defined in the grammar: $RelNP; used in rule: $Intermediate199 -> $Intermediate198 $RelNP (SelectFn 1)
+    WARNING: Category not defined in the grammar: $RelNP; used in rule: $Intermediate206 -> $Intermediate205 $RelNP (SelectFn 1)
+    WARNING: Category not defined in the grammar: $RelNP; used in rule: $Intermediate213 -> $Intermediate212 $RelNP (SelectFn 1)
+    WARNING: Category not defined in the grammar: $RelNP; used in rule: $Intermediate242 -> $RelNP (JoinFn betaReduce forward (arg0 (lambda r (lambda s (call edu.stanford.nlp.sempre.overnight.SimpleW...(137 total)
+    WARNING: Category not defined in the grammar: $Rel0NP; used in rule: $Intermediate246 -> $Rel0NP (JoinFn betaReduce forward (arg0 (lambda r0 (lambda e (call edu.stanford.nlp.sempre.overnight.Simple...(200 total)
+    WARNING: Category not defined in the grammar: $RelNP; used in rule: $Intermediate247 -> $RelNP (JoinFn betaReduce forward (arg0 (lambda r (lambda x (call edu.stanford.nlp.sempre.overnight.SimpleW...(137 total)
+    WARNING: Category not defined in the grammar: $RelNP; used in rule: $Intermediate249 -> $RelNP (JoinFn betaReduce forward (arg0 (lambda r (lambda x (call edu.stanford.nlp.sempre.overnight.SimpleW...(137 total)
+    WARNING: Category not defined in the grammar: $Rel0NP; used in rule: $Intermediate251 -> $Rel0NP (JoinFn betaReduce forward (arg0 (lambda r (lambda cp (call edu.stanford.nlp.sempre.overnight.Simple...(209 total)
+    WARNING: Category not defined in the grammar: $Rel0NP; used in rule: $Intermediate252 -> $Rel0NP (JoinFn betaReduce forward (arg0 (lambda r (lambda cp (call edu.stanford.nlp.sempre.overnight.Simple...(209 total)
+    WARNING: Category not defined in the grammar: $BinaryOp; used in rule: $BinaryOpRight -> $BinaryOp $EntityNP2 (JoinFn betaReduce forward)
+    WARNING: Category not defined in the grammar: $RelNP; used in rule: $Intermediate256 -> total $RelNP (SelectFn 0)
+    WARNING: Category not defined in the grammar: $RelNP; used in rule: $Intermediate259 -> average $RelNP (SelectFn 0)
+    Valid tags: [general, generate, geo440, geo880, parse, regex]
+    Used tags: [general, generate]
+    356 rules
+  }
+  Parser: 71 catUnaryRules (sorted), 285 nonCatUnaryRules (in trie)
+  Dataset.read {
+    Reading overnight/null.examples {
+      Example overnight/null.examples:0 (0): [null] => null
+    }
+  }
+  Learner.learn() {
+    Iteration 0/0 {
+      Processing iter=0.train: 1 examples {
+        Examples {
+          iter=0.train: example 0/1: overnight/null.examples:0 {
+            Example: null {
+              Tokens: [null]
+              Lemmatized tokens: [null]
+              POS tags: [UNK]
+              NER tags: [UNK]
+              NER values: [UNK]
+              Dependency children: []
+            }
+            Parser.parse: parse {
+              WARNING: Currently CatSizeBound is usable only when useSizeInsteadOfDepth = true.
+              FloatingParser.infer() {
+                Parser.ensureExecuted 
+              }
+            }
+            Parser.setEvaluation: 2 candidates {
+              Pred@0000: (derivation (formula (call edu.stanford.nlp.sempre.overnight.SimpleWorld.listValue (call edu.stanford.nlp.sempre.overnight.SimpleWorld.concat en.column_type.numeric en.column_type.text))) (value (list (name en.column_type.numeric) (name en.column_type.text))) (type fb:type.any) (canonicalUtterance "numeric or text")) [score=4.016, prob=0.929]
+              Pred@0001: (derivation (formula (call edu.stanford.nlp.sempre.overnight.SimpleWorld.listValue (call edu.stanford.nlp.sempre.overnight.SimpleWorld.concat en.user.alice en.user.bob))) (value (list (name en.user.alice) (name en.user.bob))) (type fb:type.any) (canonicalUtterance "alice or bob")) [score=1.443, prob=0.071]
+            }
+            Current: correct=0 oracle=0 partCorrect=0 partOracle=0 parsed=1 numCandidates=2 parsedNumCandidates=2 timeout=0 numTokens=1 parseTime=203 maxCellSize=9 fallOffBeam=0 totalDerivs=0 numOfFeaturizedDerivs=318 numCells=203
+            Cumulative(iter=0.train): correct=0 oracle=0 partCorrect=0 partOracle=0 parsed=1 numCandidates=2 parsedNumCandidates=2 timeout=0 numTokens=1 parseTime=203 maxCellSize=9 fallOffBeam=0 totalDerivs=0 numOfFeaturizedDerivs=318 numCells=203
+          }
+        }
+        Stats for iter=0.train: correct=0 oracle=0 partCorrect=0 partOracle=0 parsed=1 numCandidates=2 parsedNumCandidates=2 timeout=0 numTokens=1 parseTime=203 maxCellSize=9 fallOffBeam=0 totalDerivs=0 numOfFeaturizedDerivs=318 numCells=203
+        Evaluation stats for iter=0.train {
+          correct = 0/ << 0 ~ 0 >> /0 (1)
+          oracle = 0/ << 0 ~ 0 >> /0 (1)
+          partCorrect = 0/ << 0 ~ 0 >> /0 (1)
+          partOracle = 0/ << 0 ~ 0 >> /0 (1)
+          parsed = 1/ << 1 ~ 0 >> /1 (1)
+          numCandidates = 2/ << 2 ~ 0 >> /2 (1)
+          parsedNumCandidates = 2/ << 2 ~ 0 >> /2 (1)
+          timeout = 0/ << 0 ~ 0 >> /0 (1)
+          numTokens = 1/ << 1 ~ 0 >> /1 (1)
+          parseTime = 203/ << 203 ~ 0 >> /203 (1)
+          maxCellSize = 9@$CP0:5/ << 9 ~ 0 >> /9@$CP0:5 (1)
+          fallOffBeam = 0/ << 0 ~ 0 >> /0 (1)
+          totalDerivs = 0/ << 0 ~ 0 >> /0 (1)
+          numOfFeaturizedDerivs = 318/ << 318 ~ 0 >> /318 (1)
+          numCells = 203/ << 203 ~ 0 >> /203 (1)
+        }
+      }
+      StopWatchSet {
+        FeatureExtractor.extractLocal	0.008s (0.0s x 318)
+        Executor.execute	0.006s (0.0s x 68)
+        Parser.parse	0.205s (0.205s x 1)
+      }
+      Params.write(genovernight.out/newton/params.0) 
+      StopWatchSet {
+        FeatureExtractor.extractLocal	0.008s (0.0s x 318)
+        Executor.execute	0.006s (0.0s x 68)
+        Parser.parse	0.205s (0.205s x 1)
+      }
+      Params.write(genovernight.out/newton/params.0) 
+    }
+  }
+  Execution directory: genovernight.out/newton
+}
