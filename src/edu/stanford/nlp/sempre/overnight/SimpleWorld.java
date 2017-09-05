@@ -499,6 +499,7 @@ public final class SimpleWorld {
       case "socialnetwork": domain = new SocialNetworkDomain(); break;
       case "basketball": domain = new BasketballDomain(); break;
       case "recipes": domain = new RecipesDomain(); break;
+      case "newton": domain = new NewtonDomain(); break;
       case "geo880": opts.dbPath = "lib/data/overnight/geo880.db"; domain = new ExternalDomain(); break;
       case "external": domain = new ExternalDomain(); break;
       default: throw new RuntimeException("Unknown domain: " + opts.domain);
@@ -805,11 +806,12 @@ public final class SimpleWorld {
       List<Value> users = makeValues(L("en.user.alice", "en.user.bob"));
       List<Value> columnTypes = makeValues(L("en.column_type.numeric", "en.column_type.text"));
       for (Value e : users) {
-        insertDB(e, "has_access", sampleMultinomial(tables, sampleInt(0, 3)));
-        insertDB(e, "created", sampleMultinomial(tables, sampleInt(0, 3)));
+        insertDB(e, "has_access", sampleMultinomial(tables, sampleInt(0, 2)));
+
       }
       for (Value e : tables) {
-        insertDB(e, "has_col_type", sampleMultinomial(columnTypes, sampleInt(0, 3)));
+        insertDB(e, "was_created_by", sampleMultinomial(users));
+        insertDB(e, "has_col_type", sampleMultinomial(columnTypes, sampleInt(0, 2)));
       }
     }
   }
