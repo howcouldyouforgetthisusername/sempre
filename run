@@ -1023,7 +1023,7 @@ addMode('geo880', 'Semantic parsing on the geo880 dataset', lambda { |e| l(
   o('Geo880TypeLookup.typeHierarchyPath', 'lib/data/geo880/geo880.type_hierarchy'),
   o('TypeInference.typeLookup','geo880.Geo880TypeLookup'),
 
-  # Yrkvpba
+  # Lexicon
   o('SimpleLexicon.inPaths', 'lib/data/geo880/geo880.lexicon'),
 
   # Learner
@@ -1033,7 +1033,7 @@ addMode('geo880', 'Semantic parsing on the geo880 dataset', lambda { |e| l(
   letDefault(:data, 1),
   sel(:data,
     l(o('Dataset.inPaths', 'train,lib/data/geo880/geo880-train.preprocessed.examples'), unbalancedTrainDevSplit), # (0) train 0.8, dev 0.2
-    l(o('Dataset.inPaths', 'train,lib/data/geo880/geo880-train.preprocessed.examples', 'test,lib/data/geo880/geo880-test.preprocessed/examples')), # (1) Don't run on test yet!
+    l(o('Dataset.inPaths', 'train,lib/data/geo880/geo880-train.preprocessed.examples', 'test,lib/data/geo880/geo880-test.preprocessed.examples')), # (1) Don't run on test yet!
   nil),
   # Load the graph
   o('Dataset.globalGraphPath', 'lib/data/geo880/geo880.kg'),
