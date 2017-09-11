@@ -551,7 +551,7 @@ addMode('overnight', 'Overnight semantic parsing', l(
   #o('initialization', 'paraphrase :: match,1', 'paraphrase :: size,-0.1', 'paraphrase :: ppdb,0.3',
   #  'paraphrase :: skip-bigram,0.8', 'paraphrase :: skip-ppdb,0.2','denotation :: error,-1000'),
   o('coarsePrune'),
-  o('OvernightDerivationPruningComputer.applyHardConstraints'),
+  #o('OvernightDerivationPruningComputer.applyHardConstraints'),
   sel(2,
     l(), # no reg
     l(o('Params.l1Reg','lazy'),o('Params.l1RegCoeff',0)),
@@ -967,7 +967,7 @@ addMode('genovernight', 'Generate utterances for overnight semantic parsing', la
     nil),
     l( # For generating utterances
       o('parser', 'FloatingParser'),
-      o('maxDepth', 30), o('beamSize', 10000),
+      o('maxDepth', 8), o('beamSize', 10000),
       o('derivationScoreNoise', 1),
       o('Dataset.inPaths', 'train:overnight/null.examples'),
       o('Derivation.showUtterance'),
@@ -991,11 +991,11 @@ addMode('genovernight-wrapper', 'Generate utterances for overnight semantic pars
     #'housing' => let(:domain, 'housing'),
     #'restaurants' => let(:domain, 'restaurants'),
     #'publications' => let(:domain, 'publications'),
-    'socialnetwork' => let(:domain, 'socialnetwork'),
+    #'socialnetwork' => let(:domain, 'socialnetwork'),
     #'basketball' => let(:domain, 'basketball'),
-    #'geo880' => let(:domain, 'geo880'),
+    'geo880' => let(:domain, 'geo880'),
     #'recipes' => let(:domain, 'recipes'),
-    'newton' => let(:domain, 'newton'),
+    #'newton' => let(:domain, 'newton'),
   }),
   lambda { |e| '@domain=' + e[:domain] },
   lambda { |e| system 'mkdir -p genovernight.out'; o('execDir', 'genovernight.out/' + e[:domain]) },
@@ -1030,10 +1030,10 @@ addMode('geo880', 'Semantic parsing on the geo880 dataset', lambda { |e| l(
   o('Learner.maxTrainIters', 3),
 
   # Dataset
-  letDefault(:data, 0),
+  letDefault(:data, 1),
   sel(:data,
     l(o('Dataset.inPaths', 'train,lib/data/geo880/geo880-train.preprocessed.examples'), unbalancedTrainDevSplit), # (0) train 0.8, dev 0.2
-    l(o('Dataset.inPaths', 'train,lib/data/geo880/geo880-train.examples', 'test,lib/data/geo880/geo880-test.preprocessed/examples')), # (1) Don't run on test yet!
+    l(o('Dataset.inPaths', 'train,lib/data/geo880/geo880-train.preprocessed.examples', 'test,lib/data/geo880/geo880-test.preprocessed/examples')), # (1) Don't run on test yet!
   nil),
   # Load the graph
   o('Dataset.globalGraphPath', 'lib/data/geo880/geo880.kg'),

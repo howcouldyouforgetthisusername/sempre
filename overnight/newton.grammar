@@ -7,9 +7,9 @@
 (rule $EntityNP1 (the inventory table) (ConstantFn en.table.inventory))
 (rule $EntityNP2 (the suppliers table) (ConstantFn en.table.suppliers))
 
-(rule $TypeNP (user) (ConstantFn en.user))
-(rule $EntityNP1 (alice) (ConstantFn en.user.alice))
-(rule $EntityNP2 (bob) (ConstantFn en.user.bob))
+(rule $TypeNP (users) (ConstantFn en.user))
+(rule $EntityNP1 (Alice) (ConstantFn en.user.alice))
+(rule $EntityNP2 (Bob) (ConstantFn en.user.bob))
 
 (rule $TypeNP (column types) (ConstantFn en.column_type))
 (rule $EntityNP1 (numeric) (ConstantFn en.column_type.numeric))
